@@ -79,7 +79,7 @@ public class DigestExample
 
     /*
     
-    Get Drone Id
+    Get a session id
 
     */
     private static byte[] getSessionId() 
