@@ -35,7 +35,8 @@ https://developer.android.com/training/basics/firstapp/creating-project
 https://howtodoinjava.com/security/how-to-generate-secure-password-hash-md5-sha-pbkdf2-bcrypt-examples/
 https://softwarecave.org/2014/02/26/calculating-cryptographic-hash-functions-in-java/
 
-
+- images certificates
+https://www.sciencedirect.com/science/article/pii/S2210832717300753
 
 - sign and verify documents
 https://docs.oracle.com/javase/tutorial/security/apisign/index.html
