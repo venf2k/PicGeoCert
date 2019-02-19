@@ -1,7 +1,7 @@
 
 
 
-references:
+References:
 
 - dji SDK
 https://developer.dji.com/mobile-sdk/documentation/quick-start/index.html
@@ -24,7 +24,6 @@ http://www.appinventor.org/jbridge
 https://python-for-android.readthedocs.io/en/latest/
 https://firebase.google.com/
 
-
 - guides
 https://developer.android.com/docs/
 https://www.udacity.com/google
@@ -41,6 +40,10 @@ https://www.sciencedirect.com/science/article/pii/S2210832717300753
 - sign and verify documents
 https://docs.oracle.com/javase/tutorial/security/apisign/index.html
 
+
+- other sw/plats
+https://www.slantrange.com/
+https://sentera.com/
 
 
 
