@@ -15,15 +15,8 @@ https://dronedeploy.com/
 
 
 - dev tools
-https://developer.android.com/studio/
-https://spring.io/
-https://www.jetbrains.com/idea/
-https://start.spring.io/
-
-https://flutter.io/
-http://www.appinventor.org/jbridge
-https://python-for-android.readthedocs.io/en/latest/
-https://firebase.google.com/
+web3 python eth implementation
+ganache test net
 
 - guides
 https://developer.android.com/docs/
